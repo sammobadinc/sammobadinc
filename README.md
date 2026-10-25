@@ -68,7 +68,7 @@ Explore our repositories, follow our development, and help us build what comes n
 ## Connect
 
 - **GitHub:** [@SammobadINC](https://github.com/SammobadINC)
-- **Website:** [sammobadinc.org](https://sammobadinc.org)
+- **Website:** [sammobadinc.com](https://sammobadinc.com)
 
 ---
 
